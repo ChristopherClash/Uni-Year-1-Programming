@@ -33,7 +33,7 @@ Lab 7:
 Using recursion to perform multiplication and calculate fibonacci numbers up to an input 'n'.
 
 Lab 8:
-Uisng hashmaps to create bank accounts.
+Using hashmaps to create bank accounts.
 
 Lab 9:
-Uisng a priority queue to create a system for a A&E Dept. to prioritise inpatients.
+Using a priority queue to create a system for a A&E Dept. to prioritise inpatients.
